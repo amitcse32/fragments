@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:icon="@mipmap/ic_launcher" android:id="@+id/one" android:title="HOME"></item>
+    <item android:icon="@mipmap/ic_launcher" android:id="@+id/two" android:title="Trending"></item>
+    <item android:icon="@mipmap/ic_launcher" android:id="@+id/three" android:title="Subscription"></item>
+    <item android:icon="@mipmap/ic_launcher" android:id="@+id/four" android:title="Message"></item>
+    <item android:icon="@mipmap/ic_launcher" android:id="@+id/five" android:title="Profile"></item>
+</menu>
